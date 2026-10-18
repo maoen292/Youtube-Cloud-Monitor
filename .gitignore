@@ -1,0 +1,12 @@
+# Cloudflare Wrangler 本地機密與設定檔
+.dev.vars
+.wrangler/
+wrangler.toml
+
+# Node.js 相關依賴
+node_modules/
+npm-debug.log*
+
+# 作業系統暫存檔
+.DS_Store
+Thumbs.db
