@@ -1,4 +1,4 @@
-# 📘 YouTube 頻道全自動雲端監控系統（公開＋會員雙棲版）
+# 📘 YouTube 頻道全自動雲端監控系統（公開＋會員）
 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white)
 ![YouTube Data API v3](https://img.shields.io/badge/YouTube-Data_API_v3-FF0000?logo=youtube&logoColor=white)
