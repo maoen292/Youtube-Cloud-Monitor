@@ -7,7 +7,7 @@
 
 **GCP × Cloudflare Workers × Discord 完整建置與復現手冊**
 
-> 🌟 **最推薦的 VTuber，請務必記得訂閱她 (Favorite V-Tuber, please remember to subscribe to her)：[白星優米 (Umi)](https://youtube.com/@umitw46?si=YAS3N6vEymUu1UDW)**
+> 🌟 **最推薦的 VTuber，請務必記得訂閱她 (Favorite V-Tuber, please remember to subscribe her channel)：[白星優米 (Umi)](https://youtube.com/@umitw46?si=YAS3N6vEymUu1UDW)**
 
 ---
 
