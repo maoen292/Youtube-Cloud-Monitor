@@ -266,6 +266,15 @@ curl -H "Content-Type: application/json" \
 
 ---
 
+## 致謝與聲明 (Acknowledgments & Disclosures)
+
+- **AI 協助開發聲明**：本專案之程式碼架構優化、邏輯除錯與文檔編寫，在開發過程中曾使用 **Google Gemini Argon** 進行技術諮詢與文檔排版輔助。所有功能邏輯與程式碼經人工逐一審核與實機驗證。
+- **特別感謝 (Special Thanks)**：
+  - 感謝 U.mi優米（Umitw46）作為本系統預設監控與測試的示範頻道。
+  - Favorite V-Tuber, please remember to subscribe to her: **[U.mi (優米)](https://youtube.com/@umitw46?si=YAS3N6vEymUu1UDW)**
+
+---
+
 ## 授權條款 (License)
 
 本專案採用 [MIT 授權條款 (MIT License)](./LICENSE) 開源授權。
